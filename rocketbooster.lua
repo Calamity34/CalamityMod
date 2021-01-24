@@ -20,7 +20,7 @@ local recipe = {
     ingredients = {
         {type="item",name="processing-unit",amount=100},
         {type="item",name="iron-plate",amount=1000},
-        {type="module",name="speed-module-3",amount=1},
+        {type="item",name="speed-module-3",amount=1},
         {type="fluid",name="lubricant",amount=200},
         {type="fluid",name="crude-oil",amount=100}
     },
