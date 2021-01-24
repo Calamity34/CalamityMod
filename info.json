@@ -1,0 +1,9 @@
+{
+    "name": "rocket-booster",
+    "version": "0.1.0",
+    "title": "Rocket Booster Fuel",
+    "author": "Calamity34",
+    "factorio_version": "1.0",
+    "dependencies": ["base >= 1.0"],
+    "description": "Adds a Rocket Booster fuel that makes everything fueled ultra-fast."
+  }
