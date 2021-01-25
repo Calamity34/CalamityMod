@@ -4,11 +4,12 @@ rB.name = "rocket-booster"
 rB.icons = {
   {
     icon = rB.icon,
-    tint = {r=1,g=1,b=1,a=0.4}
+    tint = {r=0.5,g=0.5,b=1,a=0.7}
   },
 }
 
-rB.fuel_value = "1TJ"
+rB.stack_size = 5
+rB.fuel_value = "500GJ"
 rB.fuel_acceleration_multiplier = 3.0
 rB.fuel_top_speed_multiplier = 4.5
 
