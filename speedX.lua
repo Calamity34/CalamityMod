@@ -18,7 +18,7 @@ local recipe = {
         {"processing-unit",20},
         {"speed-module-3",10},
         {"rocket-fuel",10},
-        {type="fluid",name="water",amount=500}
+        {type="fluid",name="coolant",amount=500}
     },
     result="speed-module-x"
 }

@@ -1,9 +1,9 @@
 {
     "name": "calamity-mod",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "title": "Calamity Mod",
     "author": "Calamity34",
-    "factorio_version": "1.0",
+    "factorio_version": "1.1",
     "dependencies": ["base >= 1.0"],
     "description": "OP stuff."
   }
